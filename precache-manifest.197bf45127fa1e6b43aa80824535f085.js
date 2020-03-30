@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "936a7058ebd495c33a3a",
-    "url": "/dgtek-covid/css/app.42e99e59.css"
+    "revision": "fa56c0aa4da5271c02fe",
+    "url": "/dgtek-covid/css/app.5d2572b2.css"
   },
   {
     "revision": "9b156c5b2f2676dc9519",
@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/img/top-picture.b03ecf28.png"
   },
   {
-    "revision": "bad3275a2b2cd87321bb1efff7b31b9b",
+    "revision": "fd2617b85114d04efa63757b7a240052",
     "url": "/dgtek-covid/index.html"
   },
   {
-    "revision": "936a7058ebd495c33a3a",
-    "url": "/dgtek-covid/js/app.cd1a59b4.js"
+    "revision": "fa56c0aa4da5271c02fe",
+    "url": "/dgtek-covid/js/app.edb39ec5.js"
   },
   {
     "revision": "9b156c5b2f2676dc9519",
