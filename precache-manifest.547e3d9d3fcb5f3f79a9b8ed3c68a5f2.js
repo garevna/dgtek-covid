@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bda5175140c5f5c04cf",
-    "url": "/dgtek-covid/css/app.1b5c2315.css"
+    "revision": "c498d5859fbfe7b53e2a",
+    "url": "/dgtek-covid/css/app.9714d42b.css"
   },
   {
-    "revision": "d985ab61cb3ca3a35bc6",
-    "url": "/dgtek-covid/css/chunk-vendors.a007ac55.css"
+    "revision": "a7d59ff59283becf6649",
+    "url": "/dgtek-covid/css/chunk-vendors.318f1b20.css"
   },
   {
     "revision": "32750b00d6f5003097a67377a4af208f",
@@ -56,6 +56,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/fonts/Gilroy-Regular.ae5e7255.ttf"
   },
   {
+    "revision": "2d0a0d8f5f173be15a67aa084db94fe6",
+    "url": "/dgtek-covid/fonts/materialdesignicons-webfont.2d0a0d8f.eot"
+  },
+  {
+    "revision": "b4917be25082eb793b5363f2fdb5f282",
+    "url": "/dgtek-covid/fonts/materialdesignicons-webfont.b4917be2.woff"
+  },
+  {
+    "revision": "d0066537ab6a4c6f8285a5aeb3ba5f09",
+    "url": "/dgtek-covid/fonts/materialdesignicons-webfont.d0066537.woff2"
+  },
+  {
+    "revision": "f51112347be6b44f9ef46151a971430d",
+    "url": "/dgtek-covid/fonts/materialdesignicons-webfont.f5111234.ttf"
+  },
+  {
     "revision": "e84ebe245194e247e6274aa5180f6b29",
     "url": "/dgtek-covid/img/dgtek-logo.e84ebe24.svg"
   },
@@ -96,16 +112,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/img/top-picture.b03ecf28.png"
   },
   {
-    "revision": "89070c9b48ce04128c39a7ef2f009af6",
+    "revision": "5b8af7a45487e1819f78a4b8f0952d51",
     "url": "/dgtek-covid/index.html"
   },
   {
-    "revision": "0bda5175140c5f5c04cf",
-    "url": "/dgtek-covid/js/app.c5f7a5b1.js"
+    "revision": "c498d5859fbfe7b53e2a",
+    "url": "/dgtek-covid/js/app.84df0278.js"
   },
   {
-    "revision": "d985ab61cb3ca3a35bc6",
-    "url": "/dgtek-covid/js/chunk-vendors.bc96ffab.js"
+    "revision": "a7d59ff59283becf6649",
+    "url": "/dgtek-covid/js/chunk-vendors.2b2cce53.js"
   },
   {
     "revision": "a6c01be50654cc16db58631da6939e1f",
