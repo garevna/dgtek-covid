@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/js/chunk-vendors.372ce958.js"
   },
   {
-    "revision": "899f6a1e0ef549179692f874410f8682",
+    "revision": "b9d9ace5c80e085c0a5f78e6e86c84d2",
     "url": "/dgtek-covid/manifest.json"
   },
   {
