@@ -112,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/img/top-picture.b03ecf28.png"
   },
   {
-    "revision": "bc2c2e5b04687426c4a71c3cb11ae7a4",
+    "revision": "bb6344488fb9e97982e3bfe260bf2e62",
     "url": "/dgtek-covid/index.html"
   },
   {
@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/js/chunk-vendors.372ce958.js"
   },
   {
-    "revision": "c9219963e7e6bb7619e71a642e83bba9",
+    "revision": "899f6a1e0ef549179692f874410f8682",
     "url": "/dgtek-covid/manifest.json"
   },
   {
