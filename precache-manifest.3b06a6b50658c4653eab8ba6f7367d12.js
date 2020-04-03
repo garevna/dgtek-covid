@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "58fe0d47372472465de5",
+    "revision": "8793162034aa26329de8",
     "url": "/dgtek-covid/css/app.1416fea9.css"
   },
   {
-    "revision": "0eacbabc00ef58eebe82",
+    "revision": "20513de5c37efb03746e",
     "url": "/dgtek-covid/css/chunk-vendors.152b6270.css"
   },
   {
@@ -112,19 +112,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dgtek-covid/img/top-picture.b03ecf28.png"
   },
   {
-    "revision": "a45af32d527bb40fc55b343e15f8ff32",
+    "revision": "bc2c2e5b04687426c4a71c3cb11ae7a4",
     "url": "/dgtek-covid/index.html"
   },
   {
-    "revision": "58fe0d47372472465de5",
-    "url": "/dgtek-covid/js/app.a3ffb8b1.js"
+    "revision": "8793162034aa26329de8",
+    "url": "/dgtek-covid/js/app.4279a7ff.js"
   },
   {
-    "revision": "0eacbabc00ef58eebe82",
-    "url": "/dgtek-covid/js/chunk-vendors.93034184.js"
+    "revision": "20513de5c37efb03746e",
+    "url": "/dgtek-covid/js/chunk-vendors.372ce958.js"
   },
   {
-    "revision": "a6c01be50654cc16db58631da6939e1f",
+    "revision": "c9219963e7e6bb7619e71a642e83bba9",
     "url": "/dgtek-covid/manifest.json"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/dgtek-covid/robots.txt"
   }
 ]);
